@@ -6,6 +6,8 @@ GsonFormat
   [Json Annotation](https://github.com/tianzhijiexian/JsonAnnotation)
   [中文Readme](README_CN.md)
 
+因为一些因素导致 zzz40500 的账号不可用了. 现在将所有的代码从 [zzz40500](https://github.com/zzz40500/GsonFormat) 迁出至 [DimRed](https://github.com/DimRed/GsonFormat)   
+
 This is a plugin you can generate Json model from Json String.
 Please do aware **This Plugin is only for Android Studio and IntelliJ IDEA**.
 
